@@ -1,2 +1,1 @@
-# testofdian
-tianchiproject
+![image](截图_20221018122042.png)
